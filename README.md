@@ -1,9 +1,14 @@
 
 # Predicting best FPL team using ML
 
-In this project we will create try to predict the most valuable FPL squad that will get the highest points average using ML.
+In this project we will create try to predict the most valuable FPL squad that will get the highest points average using ML , we will do some EDA/AutoEDA to our data , Data cleaning , Feature engineering and Models building . 
 
-
+## What you will find :
+####  1- Data folder , which contains the data we want to use 
+####  2- src folder , which contains all the coding work I did including Cleaning ,Model buliding and EDA's .
+####  3- Report.html , is HTML file that contains insights about 'total_points' column in our data . 
+####  4- ICTReport.html , is HTML file that contains insights about 'ICT_index' column in our data . 
+####  5- BestFPLTeamPredictor.ipynb , is our main code & it's in a python notebook format .
 
 ## Datasets
 
@@ -72,6 +77,6 @@ In this project we will create try to predict the most valuable FPL squad that w
 - Numpy
 - Scikit learn
 - Matplotlib
-- Json
-- Requests
+- Seaborn
+- SweetViz
 
